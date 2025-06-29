@@ -1,0 +1,13 @@
+# OpenAI API Configuration
+# Replace with your actual OpenAI API key
+OPENAI_API_KEY=your_openai_api_key_here
+
+# Application Settings
+DEFAULT_MODEL=gpt-3.5-turbo
+MAX_TOKENS=2000
+TEMPERATURE=0.3
+
+# Risk Scoring Weights
+CRITICAL_WEIGHT=10
+WARNING_WEIGHT=5
+INFO_WEIGHT=1 
